@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
 **FigureArrowTool** 是一款专为科研工作者打造的纯前端、轻量级 SVG 矢量箭头生成工具。无论是用于电气工程架构图、虚拟电厂调度流程图，还是 ICPIES 等国际顶会的学术宣讲 PPT，本工具都能帮助你快速生成符合学术规范、数学上绝对平滑且支持符号标注的高质量矢量箭头。
-
+<p align="center">
+  <img src="demo.gif" width="600" alt="FigureArrowTool 演示动图">
+</p>
 ## ✨ 核心特性
 
 * **📐 极致的几何控制**：支持单/双向箭头切换，精准调节总体长度、弯曲程度（Bend）、箭头大小、箭身及颈部宽度。
