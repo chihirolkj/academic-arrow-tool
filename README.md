@@ -23,7 +23,7 @@
 
 ## 🚀 在线体验 (Live Demo)
 
-👉 **[点击这里访问 FigureArrowTool 在线版] (此处替换为你的 GitHub Pages 或 Netlify 链接)**
+👉 **[点击这里访问 FigureArrowTool 在线版] (https://chihirolkj.github.io/academic-arrow-tool/)**
 
 ## 💻 本地运行
 
